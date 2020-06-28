@@ -1,1 +1,1 @@
-# Demo-Test-Linked-Data-Dbpedia-SPARQL
+# Retrieve DBpedia Ddata Using RDF4J GET API
