@@ -1,1 +1,1 @@
-# Retrieve DBpedia Ddata Using RDF4J GET API
+# Retrieve DBpedia Using Rdf4j Get API
